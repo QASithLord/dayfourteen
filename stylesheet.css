@@ -1,0 +1,13 @@
+* {
+	border: 5px dashed blue;
+}
+
+
+div {
+	background-color: yellow;
+	height: 400px;
+	width: 100 px;
+	border: 2px solid black;
+	border-radius: 10px;
+	margin: 20px 10px 20px 10px;
+}
